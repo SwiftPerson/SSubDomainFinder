@@ -52,7 +52,7 @@ def ShowBanner(version):
 def clearWindows():
   os.system("cls")
 
-def clearLinux():
+def clearLinux()
   os.system("clear")
 
 
